@@ -251,3 +251,29 @@
     }
     .Contact .contactUs .img img { width:70%; margin:0 auto;}
 }
+
+@media screen and(max-width:577px){
+    .container{
+        width: 100%;
+    }
+}
+@media screen and(max-width:767px) and(min-width:576px){
+    .container{
+        width: 540px;
+    }
+}
+@media screen and(max-width:991px) and(min-width:768px){
+    .container{
+        width: 720px;
+    }
+}
+@media screen and(max-width:1199px) and(min-width:992px){
+    .container{
+        width: 100%;
+    }
+}
+@media screen and (min-width:1200px){
+    .container{
+        width: 100%;
+    }
+}
