@@ -106,7 +106,6 @@
     .menuC .btnMenu { margin: 3.2rem 4rem;}
     .Contact .contactUs {  grid-template-columns: 90%; margin-bottom: -9rem; }
     .dailyMenu { margin-bottom: -9rem; }
-    .description .table { display:none; }
     
 }
 @media screen and (max-width:520px){
