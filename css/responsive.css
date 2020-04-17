@@ -1,5 +1,6 @@
 .slicknav_menu{ display: none; }
 @media screen and (max-width:1194px) and (min-width:1182px){
+    body{ width:100%; overflow-x: hidden;}
     .heading{ grid-template-columns: 40% 52%; }
 }
 @media screen and (max-width:1180px){
@@ -97,6 +98,8 @@
 }
 
 @media screen and (max-width:574px){
+    
+    .Contact .contactUs .img img { width:500px; margin:0 auto;}
 
     .menuContain { grid-template-columns: 100%;}
     .menuContain .menuC{ padding: 3rem; }
@@ -137,6 +140,7 @@
 }
 @media screen and (max-width:448px){
     .menuC .btnMenu {  margin: 3.2rem 1rem; }
+    .Contact .contactUs .img img { width:400px; margin:0 auto;}
     
 }
 @media screen and (max-width:444px){
@@ -156,6 +160,7 @@
 }
 @media screen and (max-width:352px){
     .menuC .btnMenu {  margin: 3.2rem -0.8rem; }
+    .Contact .contactUs .img img { width:300px; margin:0 auto;}
 }
 
 @media screen and (max-width:380px){
@@ -244,4 +249,5 @@
     .menuC .btnMenu {
         margin: 3rem -1rem;
     }
+    .Contact .contactUs .img img { width:295px; margin:0 auto;}
 }
