@@ -93,7 +93,7 @@ float: left;margin: 2.5rem;padding: 17px 82px;}
 .Contact .contactUs .img{ display: flex; justify-content: center; align-items: center; position: relative; top: -1.5rem;}
 .contactUs{ padding-top: 2rem; }
 .Contact .contactUs input{ display: block; margin: 1rem 0; padding: 0.5rem;border:1px solid #c79c60;
-    width: 100%; border-radius: 0.7rem; color: rgb(126, 123, 123);}
+    width: 100%; color: rgb(126, 123, 123);}
 .Contact .contactUs textarea{ display: block; width: 100%;border:1px solid #c79c60;resize: none;
     padding: 0.5rem;color: rgb(126, 123, 123);}
 .contactUs .send{ background-image: url('../image/tm-brown-button.png');background-size: 10rem 3.3rem;;
