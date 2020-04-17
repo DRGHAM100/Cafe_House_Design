@@ -12,7 +12,7 @@ a{ text-decoration: none; color: #c79c60;}
     align-items: center;  grid-gap: 1px;  }
 .heading ul li{ display: inline-block;list-style: none;  padding: 30px;}
 /*Start Home Section*/
-.home{ padding: 0px 55px; background-color: #282726; margin-bottom: -10rem;}
+.home{ padding: 0px 55px; background-color: #282726;}
 .home .img{ display: grid; grid-template-columns: repeat(3,1fr); justify-content: end; grid-gap: 40px;}
 .home .img img{ margin-left: 30px; }
 .home .description{position: relative; display: grid; grid-template-columns: repeat(1,1fr); text-align: center; margin-top: -9rem;}
@@ -122,4 +122,9 @@ float: left;margin: 2.5rem;padding: 17px 82px;}
 }
 .table img{
     width: 100%;
+}
+.table img {
+    width: 100%;
+    position: relative;
+    bottom: -7rem;
 }
