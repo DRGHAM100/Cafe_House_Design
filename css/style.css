@@ -120,8 +120,4 @@ float: left;margin: 2.5rem;padding: 17px 82px;}
     display: grid; grid-template-columns: 100%;
     justify-content: center;
 }
-.table img{
-    width: 100%;
-    position: relative;
-    bottom: -6rem;
-}
+.table img{ width: 100%;position: relative; bottom: -5rem;}
