@@ -160,7 +160,7 @@
 }
 @media screen and (max-width:352px){
     .menuC .btnMenu {  margin: 3.2rem -0.8rem; }
-    .Contact .contactUs .img img { width:160px; margin:0 auto;}
+    .Contact .contactUs .img img { width:70%; margin:0 auto;}
 }
 
 @media screen and (max-width:380px){
