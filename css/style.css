@@ -12,7 +12,7 @@ a{ text-decoration: none; color: #c79c60;}
     align-items: center;  grid-gap: 1px;  }
 .heading ul li{ display: inline-block;list-style: none;  padding: 30px;}
 /*Start Home Section*/
-.home{ padding: 0px 55px; background-color: #282726;}
+.home{ padding: 0px 55px; background-color: #282726; margin-bottom: -10rem;}
 .home .img{ display: grid; grid-template-columns: repeat(3,1fr); justify-content: end; grid-gap: 40px;}
 .home .img img{ margin-left: 30px; }
 .home .description{position: relative; display: grid; grid-template-columns: repeat(1,1fr); text-align: center; margin-top: -9rem;}
@@ -116,3 +116,10 @@ float: left;margin: 2.5rem;padding: 17px 82px;}
         background-size: auto, auto; background-size: 20px, 60px 10px;
     background-position: 0% 30%, center bottom; padding: 11px 0 15px 25px;}
 /*End Menu Section*/
+.table {
+    display: grid; grid-template-columns: 100%;
+    justify-content: center;
+}
+.table img{
+    width: 100%;
+}
