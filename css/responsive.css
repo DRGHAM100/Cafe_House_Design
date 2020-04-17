@@ -99,7 +99,7 @@
 
 @media screen and (max-width:574px){
     
-    .Contact .contactUs .img img { width:500px; margin:0 auto;}
+    .Contact .contactUs .img img { width:474px; margin:0 auto;}
 
     .menuContain { grid-template-columns: 100%;}
     .menuContain .menuC{ padding: 3rem; }
@@ -140,7 +140,7 @@
 }
 @media screen and (max-width:448px){
     .menuC .btnMenu {  margin: 3.2rem 1rem; }
-    .Contact .contactUs .img img { width:370px; margin:0 auto;}
+    .Contact .contactUs .img img { width:348px; margin:0 auto;}
     
 }
 @media screen and (max-width:444px){
@@ -160,7 +160,7 @@
 }
 @media screen and (max-width:352px){
     .menuC .btnMenu {  margin: 3.2rem -0.8rem; }
-    .Contact .contactUs .img img { width:250px; margin:0 auto;}
+    .Contact .contactUs .img img { width:160px; margin:0 auto;}
 }
 
 @media screen and (max-width:380px){
