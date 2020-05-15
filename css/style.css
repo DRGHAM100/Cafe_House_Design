@@ -3,8 +3,9 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     margin: 0; padding: 0;scroll-behavior: smooth;
+    overflow-x:hidden;
 }
-body{ font-family: 'Dancing Script', cursive; background-color: #ccc; overflow-x: hidden; }
+body{ font-family: 'Dancing Script', cursive; background-color: #ccc; }
 a{ text-decoration: none; color: #c79c60;}
 .heading{  width: 100%;  height: 13vh;  display: grid;  grid-template-columns: repeat(2,1fr);
     grid-gap: 5rem; color: #c79c60; background-color: black; font-size: 23px;}
