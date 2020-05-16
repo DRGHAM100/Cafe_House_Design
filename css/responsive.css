@@ -182,7 +182,7 @@
 
 }
 @media screen and (max-width:512px){
-    .heading{ grid-template-columns: 50% 12%; }
+    .heading{ grid-template-columns: 53% 12%; }
     .description .paragraph { font-size: 1rem;   }
     .description .table {
         width: 56px;
